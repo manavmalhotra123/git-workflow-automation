@@ -18,7 +18,7 @@ This project provides an automation script for Git operations, allowing you to c
 1. Clone or download this project to your local machine.
 
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/manavmalhotra123/git-workflow-automation.git>
 
 
 ''' pip install keyboard  '''
