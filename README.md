@@ -31,14 +31,14 @@ mkdir my_work
 cd my_work
 
 1. Initialize a new Git repository
-'''
+ ```bash
  git init 
 
 2. Customize and modify your project files within the new repository.
 
 3. Configure the Git remote origin for your work repository by running the following command within the repository directory:
 
-'''
+
 git remote add origin <repository_url> 
 
 Replace <repository_url> with the URL of your remote repository where you want to commit your work.
