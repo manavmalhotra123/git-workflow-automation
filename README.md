@@ -21,7 +21,9 @@ This project provides an automation script for Git operations, allowing you to c
    git clone <https://github.com/manavmalhotra123/git-workflow-automation.git>
 
 
-''' pip install keyboard  '''
+   ```bash
+   pip install keyboard
+
 
 ''' python main.py & '''
 
