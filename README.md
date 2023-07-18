@@ -20,10 +20,11 @@ This project provides an automation script for Git operations, allowing you to c
    ```bash
    git clone <https://github.com/manavmalhotra123/git-workflow-automation.git>
 
-To install the `keyboard` library, run the following command:
 
-```bash
-pip install keyboard
+ pip install keyboard  
+
+ python main.py & 
+
 ## Creating a new repository for your work 
 
 mkdir my_work
