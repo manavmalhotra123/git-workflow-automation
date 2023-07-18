@@ -4,10 +4,16 @@ This project provides an automation script for Git operations, allowing you to c
 
 ## Features
 
-- Automatic Git push on specified keyboard shortcut (`Ctrl+L`)
-- Automatic Git pull on specified keyboard shortcut (`Ctrl+P`)
+- DEFAULT_INIT_SHORTCUT = 'Ctrl+I'
+- DEFAULT_CLONE_SHORTCUT = 'Ctrl+C'
+- DEFAULT_ADD_SHORTCUT = 'Ctrl+A'
+- DEFAULT_COMMIT_SHORTCUT = 'Ctrl+M'
+- DEFAULT_PUSH_SHORTCUT = 'Ctrl+L'
+- DEFAULT_PULL_SHORTCUT = 'Ctrl+P'
+- DEFAULT_BRANCH_SHORTCUT = 'Ctrl+B'
 - Continuous monitoring for uncommitted changes
 
+You can change this shortcuts in main.py
 ## Prerequisites
 
 - Python 3.x
