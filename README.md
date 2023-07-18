@@ -31,7 +31,7 @@ mkdir my_work
 cd my_work
 
 1. Initialize a new Git repository
- ```bash
+ 
  git init 
 
 2. Customize and modify your project files within the new repository.
